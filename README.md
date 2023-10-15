@@ -1,6 +1,6 @@
 # contenttree
 
-`contenttree` is a utility designed to display a tree structure of your repository's files and directories while respecting `.gitignore`. It then prints the filename followed by its content for each file. This tool is especially useful for developers and writers who want a quick overview of their project's structure and content, all in one place.
+`contenttree` is a utility designed to display a tree structure of your repository's files and directories while respecting `.gitignore`. It then prints the filename followed by its content for each file. This tool is especially useful for developers and writers who want a quick overview of their project's structure and content, all in one place. And then you can also just paste it in ChatGPT to quickly debug your code.
 
 ## Features
 
