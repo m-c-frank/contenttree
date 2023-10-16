@@ -49,9 +49,11 @@
 
 **Note Utilities Ecosystem**: A suite of tools designed to streamline and enhance your note-taking and information processing workflows.
 
+<!--START_TOKEN-->
 - **contenttree**: Display a repository's tree structure and file content, respecting `.gitignore`.
 - **[conceptsplitter](https://github.com/m-c-frank/conceptsplitter)**: Extract atomic concepts from a given text using the OpenAI API.
 - **[textdownloader](https://github.com/m-c-frank/textdownloader)**: A browser extension to automatically generate text dumps for processing.
+<!--END_TOKEN-->
 
 ## Contributing
 
