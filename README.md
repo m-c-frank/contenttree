@@ -47,9 +47,9 @@
 
 ## Related Tools
 
+<!--START_TOKEN-->
 **Note Utilities Ecosystem**: A suite of tools designed to streamline and enhance your note-taking and information processing workflows.
 
-<!--START_TOKEN-->
 - **contenttree**: Display a repository's tree structure and file content, respecting `.gitignore`.
 - **[conceptsplitter](https://github.com/m-c-frank/conceptsplitter)**: Extract atomic concepts from a given text using the OpenAI API.
 - **[textdownloader](https://github.com/m-c-frank/textdownloader)**: A browser extension to automatically generate text dumps for processing.
@@ -61,7 +61,7 @@ Contributions to the `contenttree` project or the Note Utilities Ecosystem are w
 
 ## License
 
-The `contenttree` project is open-source and available under the [GOS License](LICENSE.md).
+The textdownloader browser extension is open-source and licensed under the [GOS License](https://github.com/m-c-frank/textdownloader/blob/main/LICENCE.md).
 
 ## Credits
 
