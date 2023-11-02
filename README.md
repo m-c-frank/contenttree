@@ -27,10 +27,10 @@
     cd contenttree
     ```
 
-2. Make the script executable:
+2. Install the tool:
 
     ```bash
-    chmod +x contenttree.sh
+    bash ./install_contenttree
     ```
 
 ## Usage
@@ -40,7 +40,7 @@
 2. Run the `contenttree` script:
 
    ```bash
-   /path/to/contenttree.sh
+   contenttree .
    ```
 
 3. View the tree structure followed by file names and content.
