@@ -1,54 +1,7 @@
-# General Open Source License (GOSL)
+# Copyright (c) 2023 Martin Christoph Frank
 
-## Author: mcfrank
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-## Preamble
+# The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-The General Open Source License (GOSL) is anchored in the importance of open collaboration and software sharing. It also stands for the rights and intent of original authors. Designed to promote collaboration, this license ensures proper attribution and lets authors maintain significant control, especially in commercial contexts.
-
-## I. Definitions
-
-- Software The original code, all of its versions, and derivatives as crafted by the Author.
-- Derivative Works, including branches, based on or adapting the Software.
-- Commercial Use Activities leading to direct or indirect financial gains from the Software or Derivative.
-- Coauthors Contributors to a Derivative, sorted by the significance of their contribution.
-
-## II. Attribution
-
-All projects using the Software or a Derivative must display "Original code by the Author." Distributions should include a license acknowledging the Author, and Derivatives should credit relevant Coauthors.
-
-## III. Coauthor Recognition
-
-Derivatives must recognize Coauthors, detailing their contribution level and the specific changes they introduced.
-
-## IV. Author's Authority
-
-The Author can alter the Software without mentioning Coauthors and holds exclusive rights over commercial applications of the Software or its Derivative.
-
-## V. Major Contributor's Authority
-
-Major Contributors, as denoted in section X, share decision-making authority with the Author. Their joint decisions cover Commercial Use, alterations to this license, and pivotal project directions. All decisions should ensure transparency and represent the interests of both the Author and Major Contributors.
-
-## VI. Commercial & Patent Rights
-
-Seek the Author's written consent for any commercial or patent intentions.
-
-## VII. Distribution
-
-Include this license in all distributions. For embedded use or as part of a service, consultation with the Author is mandatory.
-
-## VIII. Warranty & Liability
-
-The Software comes "as-is", with the Author disclaiming all warranties. The Author is not accountable for any issues or damages stemming from the Software's use.
-
-## IX. Termination
-
-Breaching these terms results in immediate rights termination. For unintentional breaches, discuss potential remedies or grace periods with the Author.
-
-## X. Coauthor Contributions
-
-| Contribution Level | Name | Description/Link to Contribution |
-|--------------------|------|---------------------------------|
-| Major              |      |                                 |
-| Moderate           |      |                                 |
-| Minor              |      |                                 |
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
